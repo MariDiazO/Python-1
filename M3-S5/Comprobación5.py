@@ -1,4 +1,5 @@
 '''Calcular en factorial de un número, asignarlo a una variable y luego imprimirla'''
+
 num = 0
 
 #Ciclo para el ingreso del numero
